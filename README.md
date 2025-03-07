@@ -22,7 +22,7 @@
 - [Credits](#credits)
 
 ## Description
-
+edited
 Combines streams from other addons into one and provides much greater customisation:
 
 - Change the format of the resutls
